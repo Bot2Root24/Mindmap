@@ -12,5 +12,5 @@
 
 #Follow us: 
 https://www.youtube.com/@Bot2Root<br />
-https://www.linkedin.com/in/shr3e \n
-https://www.instagram.com/bot2root/ \n
+https://www.linkedin.com/in/shr3e<br />
+https://www.instagram.com/bot2root<br />
