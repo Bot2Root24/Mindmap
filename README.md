@@ -1,4 +1,4 @@
-#Ethical Hacking Resources
+<b>#Ethical Hacking Resources</b>
 
 🔐🧠 Explore Ethical Hacking Resources with This Comprehensive Mind Map🌐💡
 
@@ -10,7 +10,7 @@
 
 🎯📜Dive into the world of ethical hacking with this organized mind map that leads you to a plethora of FREE resources! 🛡️🔓
 
-#Follow us: 
+<b>#Follow us:</b><br /> 
 https://www.youtube.com/@Bot2Root<br />
 https://www.linkedin.com/in/shr3e<br />
 https://www.instagram.com/bot2root<br />
