@@ -11,6 +11,6 @@
 🎯📜Dive into the world of ethical hacking with this organized mind map that leads you to a plethora of FREE resources! 🛡️🔓
 
 #Follow us: 
-https://www.youtube.com/@Bot2Root \n
+https://www.youtube.com/@Bot2Root<br />
 https://www.linkedin.com/in/shr3e \n
 https://www.instagram.com/bot2root/ \n
